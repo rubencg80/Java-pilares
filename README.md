@@ -15,4 +15,4 @@
 
 **07/06/22** 
 
-- Se hizo el programa para determinar el número de vacaciones de trabajadores: _Vacaciones.java_
+- Se hizo el programa para determinar el número de vacaciones de trabajadores, durante la clase se agregó un ciclo: _Vacaciones.java_
