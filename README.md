@@ -1,4 +1,4 @@
-# Java-pilares
+# Repositorio de actividades del curso de Java de PILARES
 **Ejercicios del curso de java de pilares**
 
 **30/05/22** 
