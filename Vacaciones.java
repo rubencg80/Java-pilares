@@ -16,8 +16,10 @@ public class Vacaciones{
             nombre = sc.nextLine();
             System.out.println("¿Cuántos años de servicio tiene el trabajador?");
             antiguedad = sc.nextInt();
+            sc.nextLine();
             System.out.println("¿Cuál es la clave del departamento?");
             clave = sc.nextInt();
+            sc.nextLine();
             // Condicionales
             // Departamento 1
             if(clave==1){
@@ -68,9 +70,10 @@ public class Vacaciones{
             else{
                 System.out.println("Código de departamento incorrecto");
             }
-            System.out.println("¿Desea consultar las vacaciones de otro empleado? 0: NO, 1: SI");
+            System.out.println("¿Desea consultar las vacaciones de otro empleado?");
             System.out.println("1: SÍ, 0: NO... ");
             respuesta = sc.nextInt();
+            sc.nextLine();
     }while(respuesta==1);
     }
 }
