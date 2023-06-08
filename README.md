@@ -16,3 +16,8 @@
 **07/06/22** 
 
 - Se hizo el programa para determinar el número de vacaciones de trabajadores, durante la clase se agregó un ciclo: _Vacaciones.java_
+
+**08/06/22** 
+
+- Se hizo un programa para usar una condicional con una variable tipo String y para eliminar los saltos de línea "/n" que generan las entradas de variables tipo int: _ParesImpares_
+- Se actualizó el programa de _Vacaciones.java_ para que pregunte el nombre en el segundo ciclo
