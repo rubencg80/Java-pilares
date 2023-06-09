@@ -1,0 +1,11 @@
+Tipos de datos: int, char, float, double...
+
+Variables: Globales, contador...
+
+Operadores: Aritméticas, logicos, relacionales, asignación, unarios
+
+Condicionales: if, else if, else if
+
+Ciclos: for, while, do while
+
+El sc.close(); Cierra el escaner 
