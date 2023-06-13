@@ -23,6 +23,6 @@
 - Se actualizó el programa de _Vacaciones.java_ para que pregunte el nombre en el segundo ciclo
 - Se hizo un programa para incluir un ciclo e indique si un número es par o impar _Pareseimpares.java_
 
-- **13/06/22** 
+**13/06/22** 
 
 - Hicimos un programa utilizando case y un ejemplo de uso del if con datos de tipo cadena (String), quedó pendiente para terminar _Case.java_
