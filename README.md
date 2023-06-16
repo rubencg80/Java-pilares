@@ -34,3 +34,4 @@
 **16/06/22** 
 
 - Se actualizó el programa de _Case.java_, se agregó el caso dos y tres del switch principal, con diferentes funciones, se puede comprobar si el caso número 3 se puede hacer también con un ciclo for y usando arreglos.
+- Se hicieron las actividades de la semana 3, cuestionario y programa para subir.
