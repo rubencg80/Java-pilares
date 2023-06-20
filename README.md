@@ -35,3 +35,8 @@
 
 - Se actualizó el programa de _Case.java_, se agregó el caso dos y tres del switch principal, con diferentes funciones, se puede comprobar si el caso número 3 se puede hacer también con un ciclo for y usando arreglos.
 - Se hicieron las actividades de la semana 3, cuestionario y programa para subir.
+
+  
+**20/06/22** 
+
+- Se hizo un programa que crea matrices de 2 dimensiones preguntando por las filas y columnas además de asignarle números acumulativos _Matrices.java_
