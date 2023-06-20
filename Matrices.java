@@ -20,9 +20,7 @@ public class Matrices{
             for(int i=0;i<columnas;i++){
                 numeros[j][i] = contador;
                 contador++;
-                if(i<columnas){
                     System.out.print("[" + numeros[j][i] + "]");
-                }
             }
             System.out.println("");
         }
