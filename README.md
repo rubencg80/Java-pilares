@@ -41,3 +41,6 @@
 
 - Se hizo un programa que crea matrices de 2 dimensiones preguntando por las filas y columnas además de asignarle números acumulativos _Matrices.java_
 - Se hizo otro programa para hacer la suma de los valores de dos matrices de la misma dimensión _Sumamatrices.java_
+
+**27/06/22** 
+- Se hicieron los programas en Netbeans para hacer clases, además de ver sus propiedades, es la introducción a la programación orientada a objetos _Poo.java_ _Usuario.java_ y _Menor.java_
