@@ -44,3 +44,6 @@
 
 **27/06/22** 
 - Se hicieron los programas en Netbeans para hacer clases, además de ver sus propiedades, es la introducción a la programación orientada a objetos _Poo.java_ _Usuario.java_ y _Menor.java_
+
+**28/06/22** 
+- Se comenzó a hacer el ejercicio de POO utilizando las características de encapsulamiento (get y set), herencia (extends) y polimorfismo (funciones compartidas como mostrar()) en los documetnos de:  _Banco.java_ _Cuenta.java_ y _CuentaJoven.java_
