@@ -47,3 +47,6 @@
 
 **28/06/22** 
 - Se comenzó a hacer el ejercicio de POO utilizando las características de encapsulamiento (get y set), herencia (extends) y polimorfismo (funciones compartidas como mostrar()) en los documetnos de:  _Banco.java_ _Cuenta.java_ y _CuentaJoven.java_
+
+**05/07/22**
+- Se hizo un ejercicio en grupo para demostrar el funcionamiento del método de ordenamiento de inserción, lo hice individual en el documento  _Ordins.java_ 
