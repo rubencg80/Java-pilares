@@ -51,3 +51,6 @@
 **05/07/22**
 - Se hizo un ejercicio en grupo para demostrar el funcionamiento del método de ordenamiento de inserción, lo hice individual en el documento  _Ordins.java_
 - Se agregó el método de burbuja en el documento _Burbuja.java_
+
+**07/07/22**
+- Se comenzó a trabajar la parte gráfica en los programas de: _Ventana.java_ _Boton.java_ _Boton2.java_. Donde se colocaron botones.
