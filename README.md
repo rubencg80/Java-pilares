@@ -54,3 +54,6 @@
 
 **07/07/22**
 - Se comenzó a trabajar la parte gráfica en los programas de: _Ventana.java_ _Boton.java_ _Boton2.java_. Donde se colocaron botones.
+
+**11/07/22**
+- Se hizo una interfaz con ingreso de texto, botones y funcionamiento para ambos en el archivo de: _Cajatexto.java_.
