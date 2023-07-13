@@ -57,3 +57,9 @@
 
 **11/07/22**
 - Se hizo una interfaz con ingreso de texto, botones y funcionamiento para ambos en el archivo de: _Cajatexto.java_.
+
+**12/07/22**
+- Se hizo un proyecto en netbeans para hacer un programa con botones y funciones.
+
+**13/07/22**
+- Se hizo un proyecto en netbeans para hacer una calculadora, quedó pendiente.
